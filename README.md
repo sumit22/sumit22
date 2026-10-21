@@ -37,10 +37,12 @@ I design systems that move money and keep an exact record of it. 14+ years in so
 
 ### `// stack`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,ts,nestjs,nodejs,nextjs,react,go,rust,java&perline=11" alt="PHP, Laravel, Symfony, TypeScript, NestJS, Node.js, Next.js, React, Go, Rust, Java" height="40">
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,aws,docker,githubactions,linux&perline=11" alt="PostgreSQL, MySQL, Redis, MongoDB, AWS, Docker, GitHub Actions, Linux" height="40">
-</p>
+| Area | Tools |
+| --- | --- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=php,ts,js,go,java" alt="PHP, TypeScript, JavaScript, Go, Java" height="36"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,symfony,nestjs,nodejs" alt="Laravel, Symfony, NestJS, Node.js" height="36"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" height="36"> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" alt="PostgreSQL, MySQL, Redis, MongoDB" height="36"> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" alt="AWS, Docker, GitHub Actions, Linux" height="36"> |
 
 **Practice:** domain-driven design · event-driven architecture · multi-tenant SaaS · legacy modernisation · PCI DSS (SAQ-A) · GDPR · RBI compliance

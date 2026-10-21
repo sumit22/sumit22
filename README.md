@@ -32,10 +32,10 @@ I take systems from requirements to production: working with business and client
 
 #### Stack
 
-**Languages:** PHP · TypeScript · JavaScript · Go · Rust · Java
-**Frameworks:** Laravel · Symfony · NestJS · Express · Next.js · React · React Native
-**Data:** PostgreSQL · MySQL · Redis · MongoDB · Solr
-**Cloud:** AWS (EC2, S3, SQS, SNS, SES, IAM, VPC, Auto Scaling) · Docker · GitHub Actions
-**Practice:** DDD · event-driven design · multi-tenant SaaS · PCI DSS (SAQ-A) · GDPR · RBI compliance
+- **Languages:** PHP, TypeScript, JavaScript, Go, Rust, Java
+- **Frameworks:** Laravel, Symfony, NestJS, Express, Next.js, React, React Native
+- **Data:** PostgreSQL, MySQL, Redis, MongoDB, Solr
+- **Cloud:** AWS (EC2, S3, SQS, SNS, SES, IAM, VPC, Auto Scaling), Docker, GitHub Actions
+- **Practice:** DDD, event-driven design, multi-tenant SaaS, PCI DSS (SAQ-A), GDPR, RBI compliance
 
 Open to Application / Solution Architect and Lead Engineer roles in fintech or SaaS.

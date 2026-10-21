@@ -15,17 +15,17 @@ I design systems that move money and keep an exact record of it. 14+ years in so
 ### `// changelog`
 
 ```text
-2025 – now   SutraOS          Founder & Principal Engineer   multi-tenant SaaS, 17-module DDD monolith, AI video pipeline
-2024 – 2025  BlackLine        Senior Software Engineer       financial data pipeline moved onto AWS SQS
-2023 – 2024  Open Financial   Lead Software Engineer         20–50x faster production APIs; HDFC Bank platform, team of 5
-2020 – 2022  Spenmo (YC S20)  Lead Architect                 multi-currency payins/payouts, card issuing, MatchMove + Rapyd
-2017 – 2020  Unocoin          Web Architect                  crypto exchange: legacy PHP → Laravel, multi-country KYC, team of 7
-2010 – 2017  HolidayIQ & co.  Engineer                       Solr search, review-fraud detection, growth engineering
+2025 – now   SutraOS           Founder & Principal Engineer   multi-tenant SaaS, AI video
+2024 – 2025  BlackLine         Senior Software Engineer       pipeline onto AWS SQS
+2023 – 2024  Open Financial    Lead Software Engineer         20–50x faster APIs, HDFC Bank
+2020 – 2022  Spenmo (YC S20)   Lead Architect                 payins, payouts, card issuing
+2017 – 2020  Unocoin           Web Architect                  PHP → Laravel, team of 7
+2010 – 2017  HolidayIQ & co.   Engineer                       search, ranking, growth
 ```
 
 ### `// open source`
 
-| | |
+| Project | What it is |
 | --- | --- |
 | **[sendrail](https://github.com/sumit22/sendrail)**<br><sub>TypeScript · AWS SES</sub> | Email deliverability on your own AWS SES account: sending, delivery feedback, suppression and reputation. The layer you'd otherwise rent from an email provider. Express and NestJS adapters. |
 | **[FindMyStar](https://github.com/sumit22/FindMyStar)**<br><sub>Rust · React Native</sub> | Offline AR finder for ~620 stars, planets and Messier objects. Positions computed in Rust against VSOP87/Hipparcos and validated against USNO and JPL Horizons. No network calls. |
